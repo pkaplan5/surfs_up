@@ -16,6 +16,10 @@ The purpose of the analysis is well defined. (3 pt)
 ## Results:
 There is a bulleted list that addresses the three key differences in weather between June and December. (6 pt)
 
+* Result
+* Result
+* Result
+
 December Weather Summary
 <P></P>
 <img width="201" alt="dec" src="https://user-images.githubusercontent.com/103082844/206223615-ee3495a0-d282-42ba-a359-a9d09e93c422.png">
