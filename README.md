@@ -21,6 +21,7 @@ December Weather Summary
 <img width="201" alt="dec" src="https://user-images.githubusercontent.com/103082844/206223615-ee3495a0-d282-42ba-a359-a9d09e93c422.png">
 <P></P>
 June Weather Summary
+<P></P>
 <img width="199" alt="jun" src="https://user-images.githubusercontent.com/103082844/206223746-cc10b0e4-54da-4322-b37c-35800b2def8c.png">
 <P></P>
 ## Summary:
