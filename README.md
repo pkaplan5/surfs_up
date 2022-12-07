@@ -11,14 +11,14 @@ Analysis (14 points)
 
 
 ## Overview of the statistical analysis:
-The purpose of the analysis is well defined. (3 pt)
+After determining that we will open a icecream shop in Hawaii, the weather was analyzed to ensure that the shop will be open in the month that has the highest temperatures and most sunny days in a specified lcoation.
 
 ## Results:
-There is a bulleted list that addresses the three key differences in weather between June and December. (6 pt)
+The following are the results of the analysis of the months of December and Jun weather for 1700 days over the past years in the location selected.
 
-* Result
-* Result
-* Result
+* The mean temperature in June is 74 degrees and in December it is 71 degrees.
+* The lowest temperature recorded in December was 56 degrees and in June the lowest temperature was 64 degrees.
+* The maximum recorded temperature in December was 83 degrees and in June it was 85 degrees.
 
 December Weather Summary
 <P></P>
@@ -29,4 +29,5 @@ June Weather Summary
 <img width="199" alt="jun" src="https://user-images.githubusercontent.com/103082844/206223746-cc10b0e4-54da-4322-b37c-35800b2def8c.png">
 <P></P>
 ## Summary:
-There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December. (5 pt)
+
+The weather in June is better for the ice cream shop to be open due to higher average temperatures, higher maximum and minimum temperatures and less variation in the temperatures.
