@@ -20,6 +20,7 @@ June Weather Summary
 <P></P>
 <img width="199" alt="jun" src="https://user-images.githubusercontent.com/103082844/206223746-cc10b0e4-54da-4322-b37c-35800b2def8c.png">
 <P></P>
+
 ## Summary:
 
 The weather in June is better for the ice cream shop to be open due to higher average temperatures, higher maximum and minimum temperatures and less variation in the temperatures.
